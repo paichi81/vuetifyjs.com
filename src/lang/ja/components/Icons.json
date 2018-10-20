@@ -23,6 +23,10 @@
       "header": "ボタン",
       "desc": "アイコンをボタン内部で使用し、ボタンを強調させるための動きを付けることができます。"
     }
+    "clickable": {
+      "header": "Clickable",
+      "desc": "クリックイベントをバインドした時、カーソルが自動的にポインタに変わります。"
+    }
   },
   "props": {
     "disabled": "Mixins.Input.props.disabled",

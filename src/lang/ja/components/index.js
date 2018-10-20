@@ -16,6 +16,8 @@ import Dividers from './Dividers'
 import Footer from './Footer'
 import Forms from './Forms'
 import Icons from './Icons'
+import Snackbars from './Snackbars'
+import Timelines from './Timelines'
 import Tooltips from './Tooltips'
 
 export default {
@@ -37,5 +39,7 @@ export default {
   Footer,
   Forms,
   Icons,
+  Snackbars,
+  Timelines,
   Tooltips
 }
