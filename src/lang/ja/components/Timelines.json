@@ -1,0 +1,34 @@
+{
+  "header": "Timelines",
+  "headerText": "`v-timeline`は時系列情報を表示するのに便利です。",
+  "examples": {
+    "usage": {
+      "header": "使用方法",
+      "desc": ""
+    },
+    "small": {
+      "header": "Small dots",
+      "desc": "ユニークなデザインを提供するために、スタイルを簡単に変更できます。"
+    },
+    "icons": {
+      "header": "Icon dots",
+      "desc": "Conditionally use icons within the `v-timeline-item`'s dot to provide additional context."
+    },
+    "color": {
+      "header": "Colored dots",
+      "desc": "色付きのドットで、タイムラインを読みやすくする視覚的なブレークポイントを作成します。"
+    },
+    "slot": {
+      "header": "Opposite slot",
+      "desc": "**反対側**のスロットは、タイムラインに追加レイヤを提供します。"
+    },
+    "alert": {
+      "header": "Dense alert",
+      "desc": "高密度なタイムラインはすべてのコンテンツを右に配置します。この例でv-alertは、カードと置換され別のデザインで表示します。"
+    },
+    "advanced": {
+      "header": "Advanced",
+      "desc": "コンポーネントを組み合わせて使用すると、高度にカスタマイズされたソリューションを作成できます。"
+    }
+  }
+}

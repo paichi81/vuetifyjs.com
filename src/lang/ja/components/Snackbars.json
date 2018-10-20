@@ -1,0 +1,20 @@
+{
+  "header": "Snackbar",
+  "headerText": "`v-snackbar`コンポーネントは、ユーザへ急ぎのメッセージを表示するために使用します。Snackbarは任意の位置設定、除去時の遅延およびコールバックをサポートしています。",
+  "examples": {
+    "position": {
+      "header": "Position",
+      "desc": "標準のスナックバーは、発生したばかりの内容に注意を向けるのに便利です。"
+    },
+    "contextual": {
+      "header": "Contextual",
+      "desc": "実装に合わせて色の適用ができます"
+    }
+  },
+  "props": {
+    "autoHeight": "高さを動的に変更します",
+    "multiLine": "スナックバーを大きく表示します (mobile)",
+    "timeout": "指定時間(ミリ秒)でスナックバーを自動的に隠します。0を指定時は常時表示となります。",
+    "vertical": "スナックバーの内容を垂直方向にスタックします (mobile)"
+  }
+}
